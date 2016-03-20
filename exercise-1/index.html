@@ -2,34 +2,40 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>M4: Exercise 1</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>M6: Exercise 1</title>
   <link href="css/main.css" rel="stylesheet" />
-  <link href="bootstrap.min.css" rel="stylesheet" />
-  <script type="text/javascript" src="d3.js"></script>
-  <script type="text/javascript" src="jquery.js"></script>
-  <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" /> -->
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script> -->
-  <!-- Read in JavaScript files AFTER reading in jQuery if you're using the jQuery library -->
-  <script type='text/javascript' src="js/main.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
     <div class="container">
-      <h1>Welcome to Module 5 Exercise 2</h1>
-      <p>To complete this exercise, edit your <code>main.js</code> file. Your aim is to understand how the <code>d3.csv</code> function reads data into a web application. You'll also get practice building a table with jQuery.
+      <h1>Welcome to Module 6 Exercise 1</h1>
+      <p>To complete this exercise, edit your <code>main.js</code> file. You'll get practice using the <code>Plotly</code> by building an interactive bubble map of crowdsourced police shooting data.
       </p>
       <div class="instructions">
         <ul>
-          <li>Read in your <code>data/students.csv</code> using the <code>d3.csv</code> function</li>
-          <li>Create an HTML <code>table</code> element using jQuery</li>
-          <li>Append a table header (<code>&ltth&gt</code>) for each key in your first observation</li>
-          <li>Iterate through your array and create a new table row (<code>&lttr&gt</code>) for each element in your array</li>
-          <li>Add a cell (<code>&lttd&gt</code>) for each key/value pair in your object</li>
-          <li>Select your section with id <code>sandbox</code> section, and append your table to it</li>
+          <li>Read in your <code>data/Mass-Shooting-Data.csv</code> using the <code>d3.csv</code> function</li>
+          <li>Format your <code>data</code> object to pass to the plotly function. Make sure to set:
+            <ul>
+              <li>Latitude (<code>lat</code>)</li>
+              <li>Longitude (<code>lon</code>)</li>
+              <li>Marker attributes (<code>size</code>, <code>opacity</code>, <code>color</code>)</li>
+              <li>Tooltip information (you'll need to set <code>hoverinfo</code> and <code>text</code> properly)</li>
+            </ul>
+          </li>
+          <li>Declare your <code>layout</code> options to specify the title, projection and drawing specifications</li>
+          <li>Call your <code>Plotly.plot</code> function, passing in your container ID (<code>map-div</code>), data, and layout.</li>
         </ul>
       </div>
       <hr />
       <section id="sandbox">
-        <p>Sandbox section: append table here</p>
+        <p>Sandbox section: build map here</p>
+        <div id="map-div"></div>
       </section>
   </body>
 </html>

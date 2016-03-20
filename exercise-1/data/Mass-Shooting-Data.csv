@@ -1,0 +1,331 @@
+date,city,state,injured,killed,lat,lng
+"December 31, 2015",New Orleans,Louisiana,5,0,29.9499323,-90.0701156
+"December 27, 2015",Jackson,Tennessee,4,0,35.614517,-88.813947
+"December 26, 2015",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635899
+"December 25, 2015",Jacksonville,Florida,4,0,30.3321838,-81.655651
+"December 25, 2015",Mobile,Alabama,4,0,30.6943566,-88.0430541
+"December 21, 2015",San Leandro,California,4,0,37.7249296,-122.1560768
+"December 20, 2015",Wilmington,North Carolina,4,1,34.2257282,-77.9447107
+"December 20, 2015",Miami (Goulds),Florida,4,1,25.5705393,-80.3780753
+"December 20, 2015",Miami-dade (county),Florida,4,0,25.6364246,-80.4989467
+"December 14, 2015",Lovejoy (Brooklyn),Illinois,3,1,38.6603283,-90.1645541
+"December 13, 2015",Los Angeles,California,3,1,34.0543942,-118.2439409
+"December 13, 2015",Huntington Beach,California,4,0,33.6781238,-118.0000112
+"December 12, 2015",Savannah,Georgia,4,0,32.0835407,-81.0998342
+"December 11, 2015",Baltimore,Maryland,3,1,39.2908608,-76.6108073
+"December 11, 2015",Pittsburgh (Mount Oliver),Pennsylvania,4,0,40.511615,-80.088392
+"December 8, 2015",Cincinnati (Fairmount),Ohio,3,1,39.1220037,-84.5477215
+"December 6, 2015",Raceland,Louisiana,3,1,29.7274331,-90.598976
+"December 6, 2015",Omaha,Nebraska,3,2,41.2587317,-95.9378732
+"December 2, 2015",San Bernardino,California,19,16,34.1083449,-117.2897652
+"December 2, 2015",Savannah,Georgia,3,1,32.0835407,-81.0998342
+"November 29, 2015",Kankakee,Illinois,5,0,41.1200325,-87.8611531
+"November 27, 2015",Colorado Springs,Colorado,9,3,38.8339578,-104.8253485
+"November 27, 2015",Sacramento,California,2,2,38.5815719,-121.4943996
+"November 24, 2015",Horry (county),South Carolina,4,0,33.9204504,-78.9578973
+"November 23, 2015",Columbus,Ohio,1,4,39.9622601,-83.0007065
+"November 23, 2015",Minneapolis,Minnesota,5,0,44.9772995,-93.2654692
+"November 22, 2015",Brownsville,Texas,4,0,25.9140256,-97.4890856
+"November 22, 2015",Seattle,Washington,4,0,47.6038321,-122.3300624
+"November 22, 2015",New Orleans,Louisiana,17,0,29.9499323,-90.0701156
+"November 22, 2015",Newburgh,New York,5,0,41.5034271,-74.0104179
+"November 22, 2015",North Charleston,South Carolina,3,1,32.8546197,-79.9748103
+"November 22, 2015",Chicago,Illinois,4,0,41.8755546,-87.6244212
+"November 21, 2015",Baltimore,Maryland,3,1,39.2908608,-76.6108073
+"November 20, 2015",Pittsburgh,Pennsylvania,3,1,40.4416941,-79.9900861
+"November 18, 2015",Fresno,California,5,0,36.7394421,-119.7848307
+"November 16, 2015",Cherokee (county),Alabama,1,3,34.1142554,-85.6004514
+"November 15, 2015",Tennessee Colony,Texas,0,5,31.8354447,-95.8388504
+"November 15, 2015",Philadelphia,Pennsylvania,4,0,39.9523993,-75.1635899
+"November 14, 2015",Johnstown,Pennsylvania,4,0,40.3267407,-78.9219698
+"November 13, 2015",Jacksonville,Florida,1,4,30.3321838,-81.655651
+"November 9, 2015",Indianapolis,Indiana,2,2,39.7683331,-86.1583502
+"November 8, 2015",Warren,Michigan,4,0,42.4775364,-83.0277001
+"November 8, 2015",Des Moines,Iowa,3,1,41.5910641,-93.6037149
+"November 7, 2015",Denver,Colorado,3,1,39.7391536,-104.9847034
+"November 6, 2015",Bakersfield,California,4,0,35.3738712,-119.0194639
+"November 3, 2015",Jacksonville,Florida,3,2,30.3321838,-81.655651
+"November 2, 2015",Pendleton,South Carolina,0,4,34.6508092,-82.7820663
+"October 28, 2015",Houma,Louisiana,3,1,29.5957696,-90.7195348
+"October 27, 2015",Fort Worth,Texas,5,0,32.753177,-97.3327459
+"October 26, 2015",Evansville,Indiana,5,0,37.9747645,-87.5558483
+"October 25, 2015",Four Oaks,North Carolina,5,0,35.4448836,-78.4269489
+"October 25, 2015",Phoenix,Arizona,4,1,33.4485866,-112.0773456
+"October 25, 2015",Washington,District of Columbia,5,0,38.8949549,-77.0366456
+"October 24, 2015",Bamberg,South Carolina,4,0,33.2130154,-81.0166235
+"October 22, 2015",Nashville,Tennessee,3,1,36.1622296,-86.7743531
+"October 19, 2015",Calumet City,Illinois,6,0,41.6155909,-87.5294871
+"October 18, 2015",New Orleans,Louisiana,4,0,29.9499323,-90.0701156
+"October 17, 2015",Fort Myers,Florida,4,1,26.640628,-81.8723084
+"October 17, 2015",Elkhart,Indiana,4,0,41.6819935,-85.9766671
+"October 12, 2015",Decatur,Georgia,4,0,33.7737582,-84.296069
+"October 10, 2015",Memphis,Tennessee,6,0,35.1490215,-90.0516285
+"October 10, 2015",Charlotte,North Carolina,4,0,35.2270869,-80.8431268
+"October 10, 2015",Peoria,Illinois,3,1,40.6938609,-89.5891008
+"October 9, 2015",Flagstaff,Arizona,3,1,35.196135,-111.6246029
+"October 6, 2015",Baltimore,Maryland,5,0,39.2908608,-76.6108073
+"October 2, 2015",Baltimore,Maryland,4,1,39.2908608,-76.6108073
+"October 1, 2015",Roseburg,Oregon,9,10,43.216505,-123.3417381
+"September 28, 2015",Cincinnati (Evanston),Ohio,5,0,39.14057935,-84.4795364413891
+"September 28, 2015",Chicago,Illinois,2,3,41.8755546,-87.6244212
+"September 28, 2015",Chicago,Illinois,3,2,41.8755546,-87.6244212
+"September 28, 2015",Dayton,Ohio,4,0,39.7589478,-84.1916069
+"September 27, 2015",Greenville,Georgia,10,0,33.0287373,-84.7129848
+"September 27, 2015",Chicago,Illinois,4,0,41.8755546,-87.6244212
+"September 27, 2015",Kansas City,Missouri,4,0,39.0844687,-94.5630298
+"September 25, 2015",Danville,Illinois,4,0,40.125222,-87.6304614
+"September 24, 2015",Chicago,Illinois,5,0,41.8755546,-87.6244212
+"September 23, 2015",Shreveport,Louisiana,5,0,32.5221828,-93.7651944
+"September 23, 2015",Fort Myers,Florida,4,0,26.640628,-81.8723084
+"September 23, 2015",Norcross,Georgia,3,1,33.9412127,-84.2135309
+"September 20, 2015",Philadelphia,Pennsylvania,3,1,39.9523993,-75.1635899
+"September 20, 2015",Chicago,Illinois,5,1,41.8755546,-87.6244212
+"September 20, 2015",Tulsa,Oklahoma,6,0,36.1556805,-95.9929113
+"September 19, 2015",Indianapolis,Indiana,3,1,39.7683331,-86.1583502
+"September 17, 2015",Platte,South Dakota,0,6,43.3869397,-98.8445303
+"September 17, 2015",Albion,Michigan,4,0,42.243097,-84.7530304
+"September 15, 2015",Newark,New Jersey,4,0,40.735657,-74.1723667
+"September 13, 2015",Ocala,Florida,5,1,29.1871986,-82.1400923
+"September 12, 2015",Shreveport,Louisiana,4,0,32.5221828,-93.7651944
+"September 12, 2015",Rochester,New York,4,2,43.1854754,-77.6106860508176
+"September 12, 2015",Minneapolis,Minnesota,6,0,44.9772995,-93.2654692
+"September 12, 2015",Minneapolis,Minnesota,3,1,44.9772995,-93.2654692
+"September 11, 2015",Charlotte,North Carolina,5,0,35.2270869,-80.8431268
+"September 10, 2015",Excelsior (Greenwood),Minnesota,0,5,44.904407,-93.546882
+"September 8, 2015",Berlin,Georgia,4,0,31.0682441,-83.623778
+"September 8, 2015",Chicago,Illinois,4,0,41.8755546,-87.6244212
+"September 7, 2015",Gary,Indiana,4,2,41.6021292,-87.3371372
+"September 7, 2015",Denver,Colorado,4,0,39.7391536,-104.9847034
+"September 5, 2015",Charlotte,North Carolina,3,1,35.2270869,-80.8431268
+"September 5, 2015",Daytona Beach,Florida,4,0,29.2108147,-81.0228331
+"September 5, 2015",Las Vegas,Nevada,3,1,36.1662859,-115.149225
+"September 5, 2015",Columbia,Missouri,4,0,38.951883,-92.3337366
+"August 30, 2015",Memphis,Tennessee,4,1,35.1490215,-90.0516285
+"August 29, 2015",Tyler,Texas,3,1,32.3512601,-95.3010624
+"August 29, 2015",Bristol,Tennessee,2,3,36.5951059,-82.1887444
+"August 28, 2015",Brooklyn,New York,3,1,40.6501038,-73.9495823
+"August 27, 2015",Salinas,California,2,2,36.6777078,-121.6560114
+"August 26, 2015",Minneapolis (Brooklyn Center),Minnesota,4,0,44.961742,-93.226891
+"August 26, 2015",West Palm Beach,Florida,2,2,26.7153425,-80.0533746
+"August 26, 2015",Chicago,Illinois,3,1,41.8755546,-87.6244212
+"August 25, 2015",New Orleans,Louisiana,3,1,29.9499323,-90.0701156
+"August 23, 2015",Modesto,California,7,1,37.6390972,-120.9968782
+"August 22, 2015",Orlando (Pine Hills),Florida,4,0,28.5861117,-81.4509044
+"August 22, 2015",Roswell,New Mexico,1,3,33.3942655,-104.5230242
+"August 21, 2015",Durham,North Carolina,8,0,35.9940329,-78.898619
+"August 21, 2015",Cincinnati,Ohio,5,2,39.1014537,-84.5124602
+"August 20, 2015",Grulla (La Grulla),Texas,2,2,26.2695148,-98.6472456
+"August 19, 2015",Rochester,New York,4,3,43.1854754,-77.6106860508176
+"August 16, 2015",Fort Worth,Texas,6,0,32.753177,-97.3327459
+"August 16, 2015",Chicago,Illinois,4,0,41.8755546,-87.6244212
+"August 16, 2015",Bennettsville,South Carolina,5,0,34.6173803,-79.6847814
+"August 15, 2015",Pittsburgh,Pennsylvania,3,1,40.4416941,-79.9900861
+"August 15, 2015",Los Angeles,California,4,0,34.0543942,-118.2439409
+"August 15, 2015",Orangeburg,South Carolina,3,1,33.4918203,-80.8556476
+"August 10, 2015",Long Beach,California,4,0,33.7774658,-118.1884871
+"August 9, 2015",Forest,Mississippi,3,1,32.349231,-89.4715190656048
+"August 9, 2015",Detroit,Michigan,3,1,42.3486635,-83.0567375
+"August 9, 2015",Kansas City,Missouri,4,0,39.0844687,-94.5630298
+"August 8, 2015",Gastonia,North Carolina,3,2,35.262082,-81.1873005
+"August 8, 2015",Houston,Texas,0,8,29.7589382,-95.3676974
+"August 8, 2015",Blytheville,Arkansas,11,1,35.9272953,-89.9189754
+"August 7, 2015",Barre (Berlin),Vermont,0,4,44.218879,-72.5411929
+"August 6, 2015",Columbia,South Carolina,4,0,34.0007493,-81.0343313
+"August 4, 2015",Saint Louis,Missouri,4,1,38.6272733,-90.1978889
+"August 3, 2015",Brooklyn,New York,5,0,40.6501038,-73.9495823
+"August 2, 2015",Brooklyn,New York,9,0,40.6501038,-73.9495823
+"August 2, 2015",Baltimore,Maryland,7,0,39.2908608,-76.6108073
+"August 2, 2015",Chicago,Illinois,4,1,41.8755546,-87.6244212
+"August 2, 2015",Savannah,Georgia,5,0,32.0835407,-81.0998342
+"August 2, 2015",Chicago,Illinois,4,0,41.8755546,-87.6244212
+"August 1, 2015",Orlando,Florida,4,0,28.5421175,-81.3790462
+"July 30, 2015",Pittsburgh,Pennsylvania,4,0,40.4416941,-79.9900861
+"July 27, 2015",Rockford,Illinois,5,0,42.2713945,-89.093966
+"July 26, 2015",Kansas City,Missouri,3,2,39.0844687,-94.5630298
+"July 26, 2015",New Orleans,Louisiana,4,0,29.9499323,-90.0701156
+"July 25, 2015",Hopewell,Virginia,4,0,37.287745,-77.2944256903175
+"July 24, 2015",Erie,Pennsylvania,4,2,42.1290657,-80.0852421
+"July 23, 2015",Lafayette,Louisiana,9,3,30.2240897,-92.0198427
+"July 22, 2015",Suwanee,Georgia,0,5,34.0514898,-84.0712997
+"July 21, 2015",Miami Gardens,Florida,3,1,25.94207545,-80.2397527099553
+"July 20, 2015",Bronx,New York,6,0,40.8527855,-73.8390537435388
+"July 19, 2015",Suffolk,Virginia,4,0,36.7282096,-76.5835703
+"July 19, 2015",Louisville,Kentucky,6,0,38.2542376,-85.759407
+"July 19, 2015",Rocky Mount,North Carolina,4,0,35.9423833,-77.7956949
+"July 18, 2015",San Diego,California,4,0,32.7174209,-117.1627714
+"July 18, 2015",Santa Paula,California,5,0,34.3541659,-119.0592705
+"July 18, 2015",Salem,Oregon,4,1,44.9391565,-123.033121
+"July 18, 2015",Baton Rouge,Louisiana,2,2,30.4507462,-91.154551
+"July 17, 2015",Chicago,Illinois,5,0,41.8755546,-87.6244212
+"July 17, 2015",Cincinnati (Westwood),Ohio,4,0,39.15691,-84.5892916828278
+"July 16, 2015",Chattanooga,Tennessee,2,6,35.0456297,-85.3096801
+"July 16, 2015",Dallas,Texas,5,0,32.7762719,-96.7968559
+"July 15, 2015",Atlanta,Georgia,5,0,33.7490987,-84.3901849
+"July 15, 2015",Baltimore,Maryland,3,1,39.2908608,-76.6108073
+"July 15, 2015",Cleveland,Ohio,7,0,41.5051613,-81.6934446
+"July 15, 2015",Detroit,Michigan,4,0,42.3486635,-83.0567375
+"July 15, 2015",Holly Hill,South Carolina,1,4,33.4973905,-79.149488
+"July 14, 2015",Saint Louis,Missouri,4,0,38.6272733,-90.1978889
+"July 13, 2015",Norwalk,California,4,0,33.9092802,-118.0849169
+"July 13, 2015",Stockton,California,4,1,37.9577016,-121.2907796
+"July 12, 2015",River Forest,Illinois,3,2,41.8978091,-87.8139483
+"July 12, 2015",Jersey City,New Jersey,4,0,40.7281575,-74.0776417
+"July 7, 2015",Baltimore,Maryland,1,3,39.2908608,-76.6108073
+"July 5, 2015",Shreveport,Louisiana,8,0,32.5221828,-93.7651944
+"July 5, 2015",Fort Wayne,Indiana,9,0,41.0799898,-85.1386015
+"July 5, 2015",East Orange,New Jersey,3,1,40.767323,-74.2048677
+"July 4, 2015",Louisville,Kentucky,4,0,38.2542376,-85.759407
+"July 4, 2015",Pittsfield,Massachusetts,4,1,42.4500967,-73.2453785
+"July 4, 2015",Syracuse,New York,4,0,43.0481221,-76.1474244
+"July 4, 2015",San Antonio,Texas,4,0,29.4246002,-98.4951405
+"July 4, 2015",Washington,District of Columbia,3,1,38.8949549,-77.0366456
+"July 2, 2015",Indianapolis,Indiana,3,1,39.7683331,-86.1583502
+"June 29, 2015",Opa Locka,Florida,4,0,25.89673385,-80.2594963085029
+"June 28, 2015",Detroit,Michigan,5,0,42.3486635,-83.0567375
+"June 28, 2015",Venice,Illinois,6,0,38.6722727,-90.169832
+"June 28, 2015",Harrington,Delaware,6,0,38.921267,-75.5699884003043
+"June 27, 2015",Taunton,Massachusetts,3,1,41.900101,-71.0897675
+"June 27, 2015",Detroit,Michigan,4,0,42.3486635,-83.0567375
+"June 24, 2015",New York (Manhattan),New York,4,0,40.7484357,-73.9856932
+"June 22, 2015",Philadelphia,Pennsylvania,7,0,39.9523993,-75.1635899
+"June 21, 2015",Pittsburgh (Wilkinsburg),Pennsylvania,4,0,40.4449804,-79.8843581
+"June 21, 2015",Lexington,Kentucky,4,1,38.0464066,-84.4970393
+"June 20, 2015",Detroit,Michigan,11,1,42.3486635,-83.0567375
+"June 20, 2015",Morven,North Carolina,4,0,34.8640437,-80.0011724
+"June 20, 2015",Philadelphia,Pennsylvania,11,0,39.9523993,-75.1635899
+"June 19, 2015",Woonsocket,Rhode Island,4,0,42.0028761,-71.5147839
+"June 17, 2015",Charleston,South Carolina,0,9,32.7876012,-79.9402728
+"June 16, 2015",Miami Gardens,Florida,4,0,25.94207545,-80.2397527099553
+"June 15, 2015",Brooklyn,New York,4,0,40.6501038,-73.9495823
+"June 14, 2015",Tulsa,Oklahoma,4,0,36.1556805,-95.9929113
+"June 14, 2015",Saint Louis,Missouri,4,0,38.6272733,-90.1978889
+"June 14, 2015",Camden,New Jersey,3,1,39.9448402,-75.1198911
+"June 13, 2015",Fayetteville,Georgia,4,1,33.4487257,-84.4549262
+"June 13, 2015",Columbus,Ohio,1,4,39.9622601,-83.0007065
+"June 13, 2015",Milledgeville,Georgia,3,1,33.0801429,-83.2320991
+"June 13, 2015",Bronx,New York,5,0,40.8527855,-73.8390537435388
+"June 13, 2015",Oklahoma City,Oklahoma,4,0,35.4729886,-97.5170536
+"June 12, 2015",Allapattah,Florida,4,0,25.8087362,-80.2154581
+"June 11, 2015",Bridgeport,Connecticut,8,1,41.1670412,-73.2048348
+"June 11, 2015",Houston,Texas,3,1,29.7589382,-95.3676974
+"June 10, 2015",Los Angeles,California,3,1,34.0543942,-118.2439409
+"June 9, 2015",Saint Louis,Missouri,3,1,38.6272733,-90.1978889
+"June 7, 2015",Deer Lodge,Montana,0,5,46.0753795,-113.089332
+"June 6, 2015",Buffalo,New York,4,1,42.8864468,-78.8783689
+"June 6, 2015",Chicago,Illinois,5,0,41.8755546,-87.6244212
+"June 5, 2015",Davenport,Iowa,5,0,41.5236436,-90.5776368
+"June 5, 2015",New Orleans,Louisiana,3,1,29.9499323,-90.0701156
+"June 3, 2015",Wyandanch,New York,1,3,40.7539878,-73.360398
+"May 31, 2015",Cleveland,Ohio,1,3,41.5051613,-81.6934446
+"May 31, 2015",Springdale,Maryland,3,1,38.9376113,-76.8388603
+"May 31, 2015",New Haven,Connecticut,5,0,41.3082138,-72.9250518
+"May 31, 2015",Conyers,Georgia,2,3,33.6676103,-84.0176904
+"May 30, 2015",San Diego,California,4,0,32.7174209,-117.1627714
+"May 28, 2015",Omaha,Nebraska,4,0,41.2587317,-95.9378732
+"May 28, 2015",Chicago,Illinois,5,0,41.8755546,-87.6244212
+"May 28, 2015",Chester,Pennsylvania,3,1,39.849557,-75.3557458
+"May 26, 2015",New Orleans,Louisiana,2,2,29.9499323,-90.0701156
+"May 25, 2015",Decatur,Illinois,4,1,39.8454163,-88.9524151
+"May 24, 2015",Flint,Michigan,7,0,43.0171773,-83.7236024
+"May 24, 2015",Brockton,Massachusetts,5,0,42.0834335,-71.0183787
+"May 24, 2015",Montgomery,Alabama,3,1,32.3669656,-86.3006485
+"May 24, 2015",Saint Louis,Missouri,4,0,38.6272733,-90.1978889
+"May 23, 2015",Fresno,California,2,2,36.7394421,-119.7848307
+"May 20, 2015",Baltimore,Maryland,4,1,39.2908608,-76.6108073
+"May 18, 2015",Kinloch,Missouri,4,0,38.7406065,-90.3253922
+"May 18, 2015",Miami,Florida,4,1,25.7742658,-80.1936589
+"May 17, 2015",Waco,Texas,18,9,31.549333,-97.1466695
+"May 16, 2015",Milwaukee,Wisconsin,5,0,43.0349931,-87.922497
+"May 16, 2015",Rochester,New York,4,0,43.1854754,-77.6106860508176
+"May 16, 2015",Baltimore,Maryland,5,0,39.2908608,-76.6108073
+"May 12, 2015",Capitol Heights,Maryland,4,1,38.8853963,-76.9159441
+"May 12, 2015",Tucson,Arizona,0,5,32.2217422,-110.9264759
+"May 10, 2015",Cleveland,Ohio,4,1,41.5051613,-81.6934446
+"May 10, 2015",Jersey City,New Jersey,4,0,40.7281575,-74.0776417
+"May 10, 2015",Newark,New Jersey,3,1,40.735657,-74.1723667
+"May 7, 2015",Cincinnati,Ohio,4,0,39.1014537,-84.5124602
+"May 4, 2015",Buffalo,New York,3,1,42.8864468,-78.8783689
+"May 3, 2015",South Bend,Indiana,4,0,41.6833813,-86.2500066
+"May 3, 2015",Menasha,Wisconsin,1,4,44.2022293,-88.4465361
+"May 3, 2015",Houston,Texas,6,0,29.7589382,-95.3676974
+"May 3, 2015",Bronx,New York,4,0,40.8527855,-73.8390537435388
+"May 3, 2015",Dayton,Ohio,6,1,39.7589478,-84.1916069
+"May 1, 2015",Milwaukee,Wisconsin,3,2,43.0349931,-87.922497
+"April 27, 2015",Brooklyn,New York,4,2,40.6501038,-73.9495823
+"April 27, 2015",Gila Bend,Arizona,2,2,32.9478267,-112.7168239
+"April 25, 2015",Trenton,New Jersey,4,0,40.2170575,-74.7429463
+"April 25, 2015",Gates,New York,6,1,43.0914641,-73.6381727
+"April 21, 2015",Killeen,Texas,3,2,31.1171441,-97.727796
+"April 19, 2015",Richmond,Virginia,4,0,37.5385087,-77.43428
+"April 18, 2015",Williamsport,Pennsylvania,5,0,41.2493292,-77.0027671
+"April 18, 2015",Montgomery,Alabama,5,0,32.3669656,-86.3006485
+"April 18, 2015",Lumberton,North Carolina,3,1,34.6183433,-79.0083993
+"April 18, 2015",Charlotte,North Carolina,4,0,35.2270869,-80.8431268
+"April 18, 2015",Patterson,New Jersey,3,1,40.757048,-74.1549819
+"April 16, 2015",Phoenix,Arizona,0,5,33.4485866,-112.0773456
+"April 7, 2015",Rome,Georgia,3,1,34.257038,-85.1646726
+"April 5, 2015",Pittsburgh,Pennsylvania,3,1,40.4416941,-79.9900861
+"April 5, 2015",Louisville,Kentucky,4,1,38.2542376,-85.759407
+"April 5, 2015",Indianapolis,Indiana,5,0,39.7683331,-86.1583502
+"April 5, 2015",Benton Harbor,Michigan,4,0,42.1167065,-86.4541894
+"April 3, 2015",Daytona Beach,Florida,4,0,29.2108147,-81.0228331
+"April 2, 2015",Baltimore,Maryland,5,0,39.2908608,-76.6108073
+"March 27, 2015",Panama City Beach,Florida,7,0,30.1765914,-85.8054879
+"March 26, 2015",Amarillo,Texas,4,0,35.2072185,-101.8338246
+"March 24, 2015",Indianapolis,Indiana,0,4,39.7683331,-86.1583502
+"March 23, 2015",Clarksville,Tennessee,4,1,36.5285918,-87.3098696
+"March 22, 2015",Albuquerque,New Mexico,6,1,35.0841034,-106.6509851
+"March 21, 2015",Tampa,Florida,4,0,27.9477595,-82.458444
+"March 20, 2015",Lancaster,Texas,5,1,32.5920798,-96.7561083
+"March 18, 2015",Newark,New Jersey,3,1,40.735657,-74.1723667
+"March 18, 2015",Mesa,Arizona,5,1,33.4153143,-111.8312641
+"March 17, 2015",Stockton,California,4,3,37.9577016,-121.2907796
+"March 15, 2015",Compton,California,4,0,33.8948824,-118.2260434
+"March 14, 2015",Atlanta,Georgia,5,0,33.7490987,-84.3901849
+"March 14, 2015",Coachella,California,4,0,33.6795519,-116.176338
+"March 13, 2015",Brookhaven,Mississippi,3,2,31.58369,-90.4418086715699
+"March 10, 2015",Columbus,Georgia,5,0,32.4609764,-84.9877094
+"March 9, 2015",Chicago,Illinois,3,1,41.8755546,-87.6244212
+"March 8, 2015",Seneca,South Carolina,3,1,34.6865321,-82.9527288
+"March 4, 2015",San Bernardino,California,5,2,34.1083449,-117.2897652
+"March 1, 2015",Orange County,Florida,4,0,28.495156,-81.3111658
+"March 1, 2015",Detroit,Michigan,5,1,42.3486635,-83.0567375
+"February 28, 2015",Baltimore,Maryland,3,1,39.2908608,-76.6108073
+"February 26, 2015",Tyrone,Missouri,1,8,37.2033832,-91.8765399
+"February 25, 2015",Houston,Texas,3,3,29.7589382,-95.3676974
+"February 22, 2015",Killeen,Texas,1,4,31.1171441,-97.727796
+"February 22, 2015",Clarkesville,Georgia,2,3,34.6125971,-83.5248933
+"February 22, 2015",Charleston,South Carolina,4,0,32.7876012,-79.9402728
+"February 20, 2015",Sacramento,California,4,0,38.5815719,-121.4943996
+"February 17, 2015",Little Rock,Arkansas,3,1,34.7464809,-92.2895948
+"February 15, 2015",Long Beach,California,5,0,33.7774658,-118.1884871
+"February 9, 2015",New Port Richey,Florida,1,3,28.247132,-82.7170236901345
+"February 8, 2015",Maury City,Tennessee,6,0,35.814796,-89.2256244
+"February 7, 2015",Douglasville,Georgia,2,5,33.7514966,-84.7477136
+"February 6, 2015",Tulsa,Oklahoma,4,1,36.1556805,-95.9929113
+"February 5, 2015",Beachwood (Warrensville Heights),Ohio,3,3,41.494664,-81.512202
+"February 1, 2015",Syracuse,New York,6,0,43.0481221,-76.1474244
+"February 1, 2015",New York (Manhattan),New York,4,1,40.7484357,-73.9856932
+"January 31, 2015",Lagrange,Georgia,0,4,33.03648,-84.9912935994971
+"January 28, 2015",Dekalb County,Georgia,3,1,33.7575613,-84.2186508
+"January 26, 2015",Stockton,California,3,1,37.9577016,-121.2907796
+"January 24, 2015",Arverne (Queens),New York,1,4,40.5934173,-73.7895462
+"January 24, 2015",Omaha,Nebraska,5,3,41.2587317,-95.9378732
+"January 23, 2015",Boston,Massachusetts,6,0,42.3604823,-71.0595678
+"January 20, 2015",Clarksville,Tennessee,3,1,36.5285918,-87.3098696
+"January 19, 2015",San Antonio,Texas,5,2,29.4246002,-98.4951405
+"January 16, 2015",Oakland,California,2,2,37.8044557,-122.2713563
+"January 13, 2015",Portsmouth,Virginia,5,0,36.8354258,-76.2982742
+"January 13, 2015",Rockford,Illinois,2,2,42.2713945,-89.093966
+"January 11, 2015",Hope Mills,North Carolina,5,2,34.9704419,-78.9453056
+"January 11, 2015",Lakeland,Florida,3,1,28.0394654,-81.9498042
+"January 11, 2015",San Jose,California,5,0,37.3361905,-121.8905833
+"January 10, 2015",Wichita,Kansas,2,2,37.6922361,-97.3375448
+"January 9, 2015",San Francisco,California,0,4,37.7792768,-122.4192704
+"January 8, 2015",Boston,Massachusetts,3,1,42.3604823,-71.0595678
+"January 7, 2015",Chattanooga,Tennessee,3,1,35.0456297,-85.3096801
+"January 6, 2015",Miami,Florida,3,1,25.7742658,-80.1936589
+"January 4, 2015",Roanoke,Virginia,4,2,37.270973,-79.9414313
+"January 4, 2015",Dallas,Texas,1,3,32.7762719,-96.7968559
+"January 2, 2015",Savannah,Georgia,4,1,32.0835407,-81.0998342
+"January 1, 2015",Memphis,Tennessee,5,0,35.1490215,-90.0516285
