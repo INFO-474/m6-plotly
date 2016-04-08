@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    margin:0;
+}
+
+.box {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+
+.header {
+    padding-left: 2em;
+    background: #595959;
+}
+
+.links {
+    float:right;
+    padding-right: 2em;
+}
+
+
+a, .navbar-nav>li>a {
+    color: white;
+}
+
+#sign_out {
+    cursor:pointer;
+}
+
+#sign_out:hover, #navbar-brand:hover {
+    background: none;
+    color: orange;
+}
+
+.box .row.header {
+    flex: 0 1 auto;
+}
+
+.box .row.content {
+    flex: 1 1 auto;
+}
