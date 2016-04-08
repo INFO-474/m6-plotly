@@ -8,13 +8,21 @@ $(document).ready(function() {
         delete localStorage['uname'];
         updateUserInfoUI();
     });
-    githubAuth();
-    updateUserInfoUI();
 
-    // A call to getRepos should get repo data for each user and the execute
-    // the function given as a parameter (the callback will accept to parameters,
-    // repo data for each user)
-    var data = getRepos("mkfreeman", "drstearns", buildBarGraph);
+    var dialog = $('#dialog').dialog();
+    if (isAuth()) {
+        dialog.dialog("close");
+        updateUserInfoUI();
+        getRepos("mkfreeman", "drstearns", buildBarGraph);
+    }
+    $("#form-submit").on("click", function() {
+        githubAuth();
+        dialog.dialog("close");
+        // A call to getRepos should get repo data for each user and the execute
+        // the function given as a parameter (the callback will accept to parameters,
+        // repo data for each user)
+        getRepos("mkfreeman", "drstearns", buildBarGraph);
+    })
 });
 
 /*
@@ -141,20 +149,31 @@ function buildBarGraph(data1, data2) {
     Plotly.newPlot('myDiv', traces, layout);
 }
 
+function isAuth() {
+    if (localStorage['auth'] == undefined) {
+        return false;
+    } else {
+        return true;
+    }
+}
+
 function githubAuth() {
     var auth;
     // Caches a hashed version of user's github credentials so
     // they don't have to log in every time the page reloads.
     if (localStorage['auth'] == undefined) {
         // Super quick/simple github user authorization
-        var uname = prompt("Github username:");
-        var pw = prompt("Github password:");
+        var uname = $("#uname").val();
+        var pw = $("#pass").val();
         auth = btoa(uname + ":" + pw); // Encodes string to base-64
         localStorage['auth'] = auth;
         localStorage['uname'] = uname;
+        $("#uname").val("");
+        $("#pass").val("");
     } else {
         auth = localStorage['auth'];
     }
+    updateUserInfoUI();
     return auth;
 }
 

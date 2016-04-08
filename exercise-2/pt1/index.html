@@ -14,10 +14,22 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/jquery-ui.css">
 
     <script src="./js/main.js"></script>
 </head>
 <body>
+    <div id="dialog" title="Login">
+        <p>Default text</p>
+        <form>
+            <label for="username">Username: </label>
+            <input type="text" name="username" id="uname">
+            <label for="pw">Password: </label>
+            <input type="password" name="pw" id="pass">
+
+            <button type="button" class="btn" id="form-submit">Submit</input>
+        </form>
+    </div>
     <div class="box">
         <div class="row header navbar" id="userinfo">
             <div class="links">
@@ -31,5 +43,6 @@
             </div>
         </div>
         <div id="myDiv" class="row content"></div>
+    </div>
 </body>
 </html>
